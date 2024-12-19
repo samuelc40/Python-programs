@@ -1,0 +1,7 @@
+Then, the constructor of the parent Exception class is called manually with the self.message argum
+
+I'm a results-oriented self learned Full stack developer ( Backend-Django ) who currently a freelancer with knowledge in designing, developing, and maintaining web applications.
+
+Proficient in both front-end and back-end technologies, with a strong understanding of software architecture and best practices.
+
+Skilled in collaborating with cross-functional teams to deliver high-quality solutions that meet client needs and exceed expectations.I'm a results-oriented self learned Full stack developer ( Backend-Django ) who currently a freelancer with knowledge in designing, developing, and maintaining web applications. Proficient in both front-end and back-end technologies, with a strong understanding of software architecture and best practices. Skilled in collaborating with cross-functional teams to deliver high-quality solutions that meet client needs and exceed expectations.

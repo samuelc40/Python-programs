@@ -1,0 +1,1 @@
+ The open command will open the Python file in the read mode and the for loop will print each line present in the file.

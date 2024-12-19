@@ -1,0 +1,8 @@
+Hello world! 
+Hello, this is Arcraft infotech
+We are glad to hire you
+This is for checking if the append mode is working or not...
+Tying to add new sentence using write lines in write mode
+Tying to add new sentence using write lines in write mode
+Tying to add new sentence using write lines in write mode
+Tying to add new sentence using write lines in write mode
